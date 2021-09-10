@@ -1,0 +1,8 @@
+(nadah)(mobile)arrived
+(windows)(pc)arrived
+Connection 1: nadah Occupied
+Connection 2: windows Occupied
+Connection 1: nadah performs online activity
+Connection 2: windows performs online activity
+Connection 2: windows Logged out
+Connection 1: nadah Logged out
